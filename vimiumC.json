@@ -1,0 +1,53 @@
+{
+	"name": "Vimium C",
+	"@time": "6/19/2025, 12:21:05 PM",
+	"time": 1750357265723,
+	"environment": {
+		"extension": "2.12.2",
+		"platform": "mac",
+		"chromium": 137
+	},
+	"allBrowserUrls": true,
+	"exclusionRules": [
+		{
+			"passKeys": "",
+			"pattern": ":https://www.edclub.com/"
+		},
+		{
+			"passKeys": "",
+			"pattern": ":https://www.typequicker.com/"
+		},
+		{
+			"passKeys": "",
+			"pattern": ":vimium://options.html"
+		},
+		{
+			"passKeys": "",
+			"pattern": ":https://play.typeracer.com/"
+		}
+	],
+	"grabBackFocus": true,
+	"keyLayout": 18,
+	"keyMappings": [
+		"#!no-check",
+		"unmapAll   ",
+		"map r focusInput                      ",
+		"map e LinkHints.activate              ",
+		"map H goBack ",
+		"map L goForward",
+		"map E LinkHints.activateOpenInNewForegroundTab",
+		""
+	],
+	"keyupTime": 80,
+	"linkHintCharacters": "asdfjkl",
+	"scrollStepSize": 150,
+	"vimSync": true,
+	"vomnibarOptions": {
+		"actions": "",
+		"maxMatches": 5,
+		"queryInterval": 333,
+		"sizes": "77,3,44,0.8,1944",
+		"styles": "mono-url"
+	},
+	"ignoreCapsLock": 2
+}
