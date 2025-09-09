@@ -2,7 +2,7 @@
 Detailed description of my Mac setup, tools and config files. 
 Focus of my setup: Speed, low-friction interface with my computer.
 I want my computer to be an extension of my brain. I am optimizing for muscle memory and functionality.
-- **Last Updated**: 2025-06-19
+- **Last Updated**: 2025-09-09
 
 ---
 
@@ -11,20 +11,19 @@ I want my computer to be an extension of my brain. I am optimizing for muscle me
 | Component | Model |
 | :--- | :--- |
 | **Laptop** | MacBook Air M4 (15″, 16 GB RAM, 512 GB SSD) |
-| **Keyboard** | MoErgo Glove80 |
+| **Keyboard** | MoErgo Glove80 or native Mac keyboard |
 | **Mouse** | Logitech MX Master 3 |
 | **Display** | 1 × BenQ GW2480 |
-| **Audio** | AirPods Pro 2 |
+| **Audio** | AirPods Pro 2 or Ugreen headphones
 | **Ergonomics** | Standing Desk · Herman Miller Aeron B · Ugreen Dongles |
 
 ---
 
 ## Software
-- **Essentials**: Arc, Raycast, Spotify
-- **Tools**: Aerospace, CleanshotX, Wooshy, Hammerspoon, Karabiner Elements, Mac Whispr, Kinda Vim, Scrolla, Supercharge, Flux.
-- **Aesthetics**: Mediamate, Ice, Folder Preview
-- **Miscellaneous**: Cold Turkey, Whatsapp, 1Password, Cursor, Perplexity, Notion Calendar, Ollama, Logitech.
-- **Browser Extensions:** Vimium C, Video Speed Controller, Untrap for Youtube, Cold Turkey Blocker.
+- **Essentials**: Zen, Raycast, Spotify, Cursor. 
+- **Tools**: Cold Turkey, CleanshotX, Aerospace, Mac Whispr, Supercharge, Flux.
+- **Miscellaneous**: Whatsapp, 1Password, Warp, Perplexity, Notion Calendar, Ollama, Logitech, Mediamate, Ice, Karabiner Elements/ 
+- **Browser Extensions:** Untrap for YouTube, Default Account for Google, Video Speed Controller.
 
 ---
 ## Config Files   
